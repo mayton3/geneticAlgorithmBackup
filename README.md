@@ -27,6 +27,7 @@ Mounted at /content/drive<br>
 [2025-08-14 01:22:57] Поколение 8, лучшая оценка (всех): 250.0, лучшая оценка (интересных): 250.0<br>
 <br><br>
 15.08.2025 4:16<br>
+---<br>
 Mounted at /content/drive<br>
 Загружена популяция из файла '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv', размер: (50000000, 3).<br>
 Загружен номер поколения: 6 из файла '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
