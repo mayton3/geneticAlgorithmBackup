@@ -82,3 +82,18 @@ Mounted at /content/drive<br>
 Текущее состояние популяции сохранено в файл '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv'.<br>
 Номер поколения 21 сохранён в файл '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
 [2025-08-17 14:42:52] Поколение 22, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+<br><br>
+18.08.2025 20:37<br>
+---<br>
+Mounted at /content/drive<br>
+Загружена популяция из файла '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv', размер: (50000000, 3).<br>
+Загружен номер поколения: 21 из файла '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
+Продолжаем работу с загруженной популяцией размером 50000000 и поколением 21<br>
+[2025-08-18 19:03:40] Поколение 22, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-08-18 19:22:20] Поколение 23, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-08-18 19:40:54] Поколение 24, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+<br>
+Текущее состояние популяции сохранено в файл '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv'.<br>
+Номер поколения 24 сохранён в файл '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
+[2025-08-18 20:00:40] Поколение 25, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-08-18 20:19:18] Поколение 26, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
