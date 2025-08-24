@@ -153,3 +153,30 @@ Mounted at /content/drive<br>
 Текущее состояние популяции сохранено в файл '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv'.<br>
 Номер поколения 39 сохранён в файл '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
 [2025-08-22 21:08:38] Поколение 40, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+<br><br>
+24.08.2025 15:08<br>
+---<br>
+Mounted at /content/drive<br>
+Загружена популяция из файла '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv', размер: (50000000, 3).<br>
+Загружен номер поколения: 39 из файла '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
+Продолжаем работу с загруженной популяцией размером 50000000 и поколением 39<br>
+[2025-08-24 12:05:23] Поколение 40, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-08-24 12:23:16] Поколение 41, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-08-24 12:41:08] Поколение 42, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+<br>
+Текущее состояние популяции сохранено в файл '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv'.<br>
+Номер поколения 42 сохранён в файл '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
+[2025-08-24 13:00:13] Поколение 43, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-08-24 13:18:23] Поколение 44, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-08-24 13:36:15] Поколение 45, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+<br>
+Текущее состояние популяции сохранено в файл '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv'.<br>
+Номер поколения 45 сохранён в файл '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
+[2025-08-24 13:55:31] Поколение 46, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-08-24 14:13:33] Поколение 47, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-08-24 14:31:16] Поколение 48, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+<br>
+Текущее состояние популяции сохранено в файл '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv'.<br>
+Номер поколения 48 сохранён в файл '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
+[2025-08-24 14:50:19] Поколение 49, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-08-24 15:08:18] Поколение 50, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
