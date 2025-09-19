@@ -502,7 +502,7 @@ Mounted at /content/drive<br>
 Номер поколения 117 сохранён в файл '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
 [2025-09-16 22:06:31] Поколение 118, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
 [2025-09-16 22:24:28] Поколение 119, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
-<br>
+<br><br>
 17.09.2025 20:56<br>
 ---<br>
 Mounted at /content/drive<br>
@@ -533,3 +533,18 @@ Drive already mounted at /content/drive; to attempt to forcibly remount, call dr
 Номер поколения 123 сохранён в файл '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
 [2025-09-18 20:46:45] Поколение 124, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
 [2025-09-18 21:05:03] Поколение 125, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+<br><br>
+19.09.2025 20:21<br>
+---<br>
+Mounted at /content/drive<br>
+Загружена популяция из файла '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv', размер: (50000000, 3).<br>
+Загружен номер поколения: 123 из файла '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
+Продолжаем работу с загруженной популяцией размером 50000000 и поколением 123<br>
+[2025-09-19 19:07:07] Поколение 124, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-09-19 19:25:22] Поколение 125, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-09-19 19:43:32] Поколение 126, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+<br>
+Текущее состояние популяции сохранено в файл '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv'.<br>
+Номер поколения 126 сохранён в файл '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
+[2025-09-19 20:02:58] Поколение 127, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-09-19 20:21:21] Поколение 128, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
