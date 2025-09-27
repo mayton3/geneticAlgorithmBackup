@@ -584,3 +584,24 @@ Mounted at /content/drive<br>
 Текущее состояние популяции сохранено в файл '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv'.<br>
 Номер поколения 135 сохранён в файл '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
 [2025-09-24 20:53:19] Поколение 136, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+<br><br>
+27.09.2025 20:27<br>
+---<br>
+Mounted at /content/drive<br>
+Загружена популяция из файла '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv', размер: (50000000, 3).<br>
+Загружен номер поколения: 135 из файла '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
+Продолжаем работу с загруженной популяцией размером 50000000 и поколением 135<br>
+[2025-09-27 18:49:59] Поколение 136, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 64.0<br>
+[2025-09-27 19:03:48] Поколение 137, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-09-27 19:17:30] Поколение 138, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+<br>
+Текущее состояние популяции сохранено в файл '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv'.<br>
+Номер поколения 138 сохранён в файл '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
+[2025-09-27 19:32:17] Поколение 139, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-09-27 19:45:52] Поколение 140, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-09-27 19:59:32] Поколение 141, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+<br>
+Текущее состояние популяции сохранено в файл '/content/drive/MyDrive/geneticAlgorithmBackup/population_backup.csv'.<br>
+Номер поколения 141 сохранён в файл '/content/drive/MyDrive/geneticAlgorithmBackup/generation_backup.csv'.<br>
+[2025-09-27 20:14:16] Поколение 142, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
+[2025-09-27 20:27:58] Поколение 143, лучшая оценка (всех): 0.0, лучшая оценка (интересных): 1.0<br>
